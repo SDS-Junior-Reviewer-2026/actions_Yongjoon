@@ -1,1 +1,1 @@
-python('ni hao')
+print('ni hao')
